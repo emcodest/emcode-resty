@@ -1,0 +1,11 @@
+{
+  "name": "emcode-resty",
+  "version": "1.0.0",
+  "description": "Custom HTTP client with got, exponential backoff and retry logic",
+  "main": "lib/index.js",
+  "author": "Emcode",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^13.0.0"
+  }
+}
