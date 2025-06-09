@@ -6,6 +6,6 @@
   "author": "Emcode",
   "license": "MIT",
   "dependencies": {
-    "got": "^13.0.0"
+    "got": "^11.0.0"
   }
 }
